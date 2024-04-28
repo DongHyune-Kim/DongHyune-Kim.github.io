@@ -22,8 +22,8 @@ html {
     font-size: 14px;
   }
 
-  -webkit-text-size-adjust: 70%;
-  -ms-text-size-adjust: 70%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }
 
 /* Remove margin */
@@ -96,7 +96,7 @@ a:active {
 sub,
 sup {
   position: relative;
-  font-size: 50%;
+  font-size: 75%;
   line-height: 0;
   vertical-align: baseline;
 }
