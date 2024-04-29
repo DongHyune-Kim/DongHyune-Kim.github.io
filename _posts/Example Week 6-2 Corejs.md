@@ -1,3 +1,10 @@
+---
+layout: single
+title: "6주차 CoreJavaScript 두 번째 강의 실습 예제입니다."
+---
+
+# Example 6-2
+```js
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,3 +21,4 @@
 </body>
 
 </html>nstall [Debugger for chrome] extension on your VS Code.
+```
